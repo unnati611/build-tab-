@@ -1,0 +1,87 @@
+body {
+    /* margin: 0px;
+    padding: 0px; */
+}
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+hr {
+    font-weight: 800;
+    border: 2px solid black;
+}
+
+#nav1 {
+
+    margin: 10px;
+    padding: 10PX;
+}
+
+#nav2 {
+
+    margin: 10px;
+    padding: 10PX;
+}
+
+#nav3 {
+
+    margin: 10px;
+    padding: 10PX;
+}
+
+#nav4 {
+
+    margin: 10px;
+    padding: 10PX;
+}
+
+#nav1:hover {
+    background-color: beige;
+}
+
+#nav2:hover {
+    background-color: beige;
+}
+
+#nav3:hover {
+    background-color: beige;
+}
+
+#nav4:hover {
+    background-color: beige;
+}
+
+/* .main2 {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+
+} */
+
+.navinfo {
+    position: absolute;
+    display: none;
+    margin: 10px;
+    padding: 10px;
+    width: 280px;
+
+}
+
+#home {
+    margin-left: 200px;
+}
+
+#pricing {
+    margin-left: 450px;
+}
+
+#contact {
+    margin-left: 770px;
+}
+
+#about {
+    margin-left: 1050px;
+}
